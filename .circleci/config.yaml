@@ -13,7 +13,7 @@ jobs:
       - python/save-cache
       - run:
           command: make install
-          name: Test
+          name: Test Build
 
 workflows:
   main:
