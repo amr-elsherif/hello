@@ -1,3 +1,3 @@
 # hello demo remp
 
-!https://circleci.com/gh/amr-elsherif/hello.svg?style=svg!:/appveyor/build/:user/:repo
+[![circleCI](https://circleci.com/gh/amr-elsherif/hello.svg?style=svg)](https://circleci.com/gh/amr-elsherif/hello)
